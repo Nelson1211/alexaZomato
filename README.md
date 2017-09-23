@@ -34,9 +34,11 @@ For detailed instructions on how to get everything set up refer to https://www.y
 
 Once you have the skill up and running, try
 
+```
 Restaurants around me
 
 Restaurants nearby in a budget of 20
+```
 
 ## Acknowledgments
 
