@@ -6,8 +6,8 @@ from unidecode import unidecode
 import re
 
 app = Flask(__name__)
-ask = Ask(app, "/zomato")
-z = Zomato("309e354eabc5cf4d7ea8eddef054c677")
+ask = Ask(app, "/")
+z = Zomato("api_key")
 
 id=0
 restaurant_names=[]
