@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Location",
+          "type": "LIST_OF_LOCATIONS"
+        }
+      ],
+      "intent": "LocationIntent"
+    },
+    {
+      "intent": "WhereIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Amount",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "CostIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Restaurant",
+          "type": "LIST_OF_RESTAURANTS"
+        }
+      ],
+      "intent": "RestaurantIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

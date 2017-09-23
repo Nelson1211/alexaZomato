@@ -1,0 +1,25 @@
+LocationIntent {Location}
+LocationIntent I am in {Location}
+LocationIntent I live in {Location}
+LocationIntent My location is {Location}
+WhereIntent Suggest me some restaurant
+WhereIntent Suggest me some restaurants
+WhereIntent Suggest me some good restaurant
+WhereIntent Suggest me some good restaurants
+WhereIntent Restaurants nearby
+WhereIntent Restaurants near me
+WhereIntent Restaurants around me
+WhereIntent Restaurants close by
+WhereIntent Restaurants close to me
+WhereIntent Suggest some restaurants nearby
+WhereIntent Suggest some restaurants near me
+WhereIntent Suggest some restaurants close to me
+WhereIntent Suggest some restaurants close by
+CostIntent Restaurants nearby in a budget of {Amount}
+CostIntent Restaurants around me in a budget of {Amount}
+CostIntent Restaurants that cost less than {Amount}
+CostIntent Restaurants within a budget of {Amount}
+RestaurantIntent Tell me more about {Restaurant}
+RestaurantIntent Tell me about {Restaurant}
+RestaurantIntent Give me details about {Restaurant}
+AMAZON.HelpIntent What can you do
